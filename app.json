@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Moto Kult",
+    "slug": "moto-kult-app",
+    "version": "1.0.0",
+    "scheme": "motokult",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "android": { "package": "de.motokult.app" },
+    "ios": { "bundleIdentifier": "de.motokult.app", "supportsTablet": true }
+  }
+}
